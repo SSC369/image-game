@@ -1,0 +1,8 @@
+.image {
+  margin: 10px;
+  width: 100px;
+}
+.image-button {
+  background-color: transparent;
+  border-width: 0;
+}

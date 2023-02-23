@@ -1,0 +1,15 @@
+.tab-item {
+  margin-right: 20px;
+}
+
+.tab-button {
+  color: white;
+  font-weight: 600;
+  font-size: 20px;
+  background-color: transparent;
+  border-width: 0;
+}
+.selected-tab {
+  color: #fec653;
+  border-bottom: 2px solid #fec653;
+}
